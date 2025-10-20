@@ -81,3 +81,9 @@ A Library Management System built with **PHP**, **SQL**, **HTML**, and **JavaScr
       - This project is open-source and available under the MIT License.
     
   ---
+
+## 💡 Author
+
+GitHub: [@kevin030-anto](https://github.com/kevin030-anto)
+
+---
